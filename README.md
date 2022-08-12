@@ -1,0 +1,2 @@
+# studyportal
+django project
